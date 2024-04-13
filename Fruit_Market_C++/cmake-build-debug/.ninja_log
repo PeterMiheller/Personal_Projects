@@ -1,0 +1,17 @@
+# ninja log v5
+5	1543	7342705910711694	CMakeFiles/Lab4.dir/FruitUI.cpp.obj	90f285caeabb7e38
+11	1523	7341010841043518	CMakeFiles/Lab4.dir/FruitController.cpp.obj	ab3aa10c42d47db
+13	1728	7340975470138584	CMakeFiles/Lab4.dir/Fruit.cpp.obj	29b1e2b421799c46
+13	1742	7343732491392239	CMakeFiles/Lab4.dir/FruitRepo.cpp.obj	da265d9bc321a212
+12	1570	7342705911033317	CMakeFiles/Lab4.dir/FruitApp.cpp.obj	d71514e895541b87
+1743	2118	7343732495043560	Lab4.exe	320251f6dd22bb58
+9	4363	7343749280108942	CMakeFiles/Lab4.dir/Controller/FruitController.cpp.obj	b771d8a0eae9e33f
+18	4472	7343749281231665	CMakeFiles/Lab4.dir/Domain/Fruit.cpp.obj	4edb59ab2314db09
+24	5348	7343749290357932	CMakeFiles/Lab4.dir/Repo/FruitRepo.cpp.obj	ea99e88bb8fd838e
+4472	6137	7343749298370679	CMakeFiles/Lab4.dir/UI/FruitUI.cpp.obj	152df2b474f152f6
+4364	6224	7343749299261861	CMakeFiles/Lab4.dir/FruitApp.cpp.obj	d71514e895541b87
+6224	6478	7343749301685734	Lab4.exe	8e8308fcd13f9677
+8	2092	7344737058326027	CMakeFiles/Lab4.dir/Controller/FruitController.cpp.obj	b771d8a0eae9e33f
+94	2202	7344737059453703	CMakeFiles/Lab4.dir/UI/FruitUI.cpp.obj	152df2b474f152f6
+88	2237	7344737059806797	CMakeFiles/Lab4.dir/FruitApp.cpp.obj	d71514e895541b87
+2238	2744	7344737064802077	Lab4.exe	8e8308fcd13f9677
